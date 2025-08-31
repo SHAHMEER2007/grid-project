@@ -121,7 +121,6 @@ img {
     border-radius: 1rem;
     background-color: var(--color-grey-light-1);
     position: absolute;
-    top: -1.2rem;
 }
 
 .navbar .nav-icon::after {
