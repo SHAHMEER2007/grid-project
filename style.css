@@ -488,7 +488,6 @@ img {
     .navbar {
         justify-items: end;
         height: 5rem;
-        position: absolute;
     }
 
     .navbar .nav-icon {
